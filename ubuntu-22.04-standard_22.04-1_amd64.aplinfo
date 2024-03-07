@@ -1,0 +1,13 @@
+Package: ubuntu-22.04-standard
+Version: 22.04-1
+Type: lxc
+OS: ubuntu-22.04
+Section: system
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: system/ubuntu-22.04-standard_22.04-1_amd64.tar.zst
+md5sum: a1f167ac98a931abc333154354d475fc
+sha512sum: cf617c11232c3fbce1ba9f7146ac194561411c292c445b2a5c9affe5f09729f5c38315619de4d649ff63e31dd5b536ea081fdde1b7792e6e521d1694ac7c9cb8
+Infopage: https://pve.proxmox.com/wiki/Linux_Container#pct_supported_distributions
+Description: Ubuntu 22.04 Jammy (standard)
+ A small Ubuntu 22.04 Jammy Jellyfish system including all standard packages.
